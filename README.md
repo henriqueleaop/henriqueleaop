@@ -6,7 +6,7 @@ Currently working with backend development while studying Information Systems at
 
 ## Currently working on
 
-- Shipboard - A project feature request platform
+- Shipboard - Product feedback board for collecting suggestions, votes, and feature requests.
 - Algorithms and data structures with CLRS
 - Object-Oriented Programming teaching/monitoring at IFMG
 
