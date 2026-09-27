@@ -6,7 +6,7 @@ Currently working with backend development while studying Information Systems at
 
 ## Currently working on
 
-- BERSERK — long-term backend engineering project
+- Shipboard project - A project feature request platform
 - Algorithms and data structures with CLRS
 - Object-Oriented Programming teaching/monitoring at IFMG
 
